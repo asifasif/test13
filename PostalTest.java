@@ -48,6 +48,7 @@ public class PostalTest
 	catch (PostalCodeException ex3) {}
       }
     }
+ //change
     if (code != null)
       System.out.println(code);
     else
